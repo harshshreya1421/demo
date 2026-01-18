@@ -3,7 +3,8 @@ int main()
 {
     printf("khushu \n");
     printf("Kaise ho\n");
-    printf("Han ji");
-    printf("AC");
+    printf("Han ji\n");
+    printf("AC\n");
+    printf("Thk ho");
     return 0;
 }
