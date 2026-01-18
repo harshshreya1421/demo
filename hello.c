@@ -6,6 +6,7 @@ int main()
     printf("Han ji\n");
     printf("AC\n");
     printf("Thk ho");
-    printf("mjaaa aayaaa");
+    printf("mjaaa aayaaa\n");
+    printf("Achha");
     return 0;
 }
